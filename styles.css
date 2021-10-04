@@ -1,0 +1,24 @@
+#shape-canvas{
+height: 600px;
+width: 600px;
+background-color: black;
+position:relative;
+}
+
+.triangle {
+    border-bottom: 100px solid yellow;
+    border-right: 100px solid transparent;
+}
+
+.square {
+background-color: red;
+}
+
+.rectangle {
+background-color: green;
+}
+
+.circle {
+background-color: violet;
+border-radius: 50%;
+}
