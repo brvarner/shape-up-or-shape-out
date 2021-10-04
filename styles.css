@@ -6,8 +6,7 @@ position:relative;
 }
 
 .triangle {
-    border-bottom: 100px solid yellow;
-    border-right: 100px solid transparent;
+    background: linear-gradient(to bottom left, transparent 0%, transparent 50%, yellow 50%, yellow 100%);
 }
 
 .square {
